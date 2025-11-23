@@ -97,8 +97,8 @@ The HEROCS project is organized following best software engineering and open-sou
 - For performance tuning: profile with Flutter DevTools, model quantization/pruning for speed
 
 ## References and Technical Links
-- GitHub: https://github.com/riggsybanez/Projects
-- Hugging Face dataset: https://huggingface.co/datasets/riggsybanez/HEROCS_Dataset/tree/main
+- GitHub: https://github.com/riggsybanez/HEROCS-Project
+- Hugging Face dataset: https://huggingface.co/datasets/riggsybanez/HEROCS_Dataset
 - Roboflow: https://roboflow.com/
 - YOLOv8 Docs: https://docs.ultralytics.com/
 - Flutter: https://flutter.dev/
