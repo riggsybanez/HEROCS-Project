@@ -25,7 +25,6 @@ The HEROCS project is organized following best software engineering and open-sou
    - `image_detection_screen.dart`: Static image scan and reporting
    - `object_detection_service.dart`: Loads and manages the YOLOv8 TFLite model; inference logic
    - Models: `hazard_object.dart`, `risk_classification.dart`, `household_danger_index.dart`
-   - `bounding_box_painter.dart`: Custom render of bounding boxes
 - `assets/` – Models and label files
    - `models/`: `yolov8sherocs.tflite`, label map txt
 - `pubspec.yaml`: Dependencies and assets
